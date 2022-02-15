@@ -1,0 +1,30 @@
+.input {
+    height: 200px;
+    width: 250px;
+    border: 5px solid red;
+    border-radius: 25px;
+    margin-top: 25px;
+    margin-bottom: 20px;
+
+}
+button{
+    height: 50px;
+    width:150px;
+}
+
+.left{
+    height: 200px;
+    width: 250px;
+    border: 5px solid red;
+    border-radius: 25px;
+    margin-top: 20px;
+    text-align: center;
+
+}
+body{
+    display: flex;
+  justify-content: center;
+  align-items: center;   
+    flex-direction: column;
+}
+
